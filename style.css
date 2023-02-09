@@ -26,6 +26,13 @@ div {
 
 }
 
+.background-pic {
+  height: 200px;
+  width: 600px;
+  object-fit: cover;
+
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
