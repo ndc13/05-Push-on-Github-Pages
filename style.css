@@ -3,6 +3,11 @@ background-image: url(images/blacksteel.jpeg);
 background-position: cover;
   }
 
+  follow_me_image {
+    background-image: url(images/bike.jpg);
+    background-position: cover;
+  }
+
 .card-white {
   background-color: rgb(81, 54, 145);
   padding: 30px;
